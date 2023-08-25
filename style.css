@@ -38,8 +38,8 @@ h1 {
   margin: 0;
 }
 .atom {
-  width: 50vmin;
-  height: 50vmin;
+  width: 70vmin;
+  height: 70vmin;
   display: flex;
   align-items: center;
   justify-content: center;
